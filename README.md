@@ -7,19 +7,33 @@ The application also includes a splash screen that appears when the app starts, 
 
 ## Features
 The calculator supports the following features:
+
 - Splash screen displayed when the app launches
-- <img width="360" height="718" alt="image" src="https://github.com/user-attachments/assets/17be5e04-6dad-475e-80b3-6a5685270bab" />
+ 
+ <img width="360" height="718" alt="image" src="https://github.com/user-attachments/assets/17be5e04-6dad-475e-80b3-6a5685270bab" />
+
 - Addition (+)
-- <img width="357" height="791" alt="image" src="https://github.com/user-attachments/assets/395a913d-8a37-43a9-8dfc-eb2e226c6b92" />
+ 
+ <img width="357" height="791" alt="image" src="https://github.com/user-attachments/assets/395a913d-8a37-43a9-8dfc-eb2e226c6b92" />
+
 - Subtraction (-)
-- <img width="360" height="782" alt="image" src="https://github.com/user-attachments/assets/ad45be1f-456c-42b0-82f1-71a6b4688ca4" />
+ 
+ <img width="360" height="782" alt="image" src="https://github.com/user-attachments/assets/ad45be1f-456c-42b0-82f1-71a6b4688ca4" />
+
 - Multiplication (*)
-- <img width="357" height="783" alt="image" src="https://github.com/user-attachments/assets/f6351707-c762-4779-bbbe-3bc789ce786f" />
+ 
+ <img width="357" height="783" alt="image" src="https://github.com/user-attachments/assets/f6351707-c762-4779-bbbe-3bc789ce786f" />
+
 - Division (/)
-- <img width="352" height="786" alt="image" src="https://github.com/user-attachments/assets/edb963b3-931b-4041-86a1-a74a16c18bc2" />
+ 
+ <img width="352" height="786" alt="image" src="https://github.com/user-attachments/assets/edb963b3-931b-4041-86a1-a74a16c18bc2" />
+
 - mod(%)
-- <img width="357" height="782" alt="image" src="https://github.com/user-attachments/assets/fa19f7f4-f90e-46dc-bdf9-2fa7176f5b49" />
+ 
+ <img width="357" height="782" alt="image" src="https://github.com/user-attachments/assets/fa19f7f4-f90e-46dc-bdf9-2fa7176f5b49" />
+
 - Simple and user-friendly interface
+ 
 - Instant calculation results
 
 
